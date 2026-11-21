@@ -1,7 +1,7 @@
 // Service worker for the MTB Hotspots Salzburg app.
 // The app opens even without internet: the dashboard (with all routes and photos) and the map library are kept on the phone.
 // Map tiles, weather and directions still need internet.
-const CACHE = 'mtb-salzburg-v4';
+const CACHE = 'mtb-salzburg-v5';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png',
   'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css', 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js',
   'https://unpkg.com/leaflet.heat@0.2.0/dist/leaflet-heat.js', 'https://unpkg.com/qrcode-generator@1.4.4/qrcode.js'];

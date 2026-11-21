@@ -3188,8 +3188,8 @@ function downloadGpx(name, pts) {
 
   // --- Tracking on the map (like the bergfex app): full map, activity button, big "Start Tour" button, ⋯ menu; live stats while recording
   const ACTS = [['🚵', 'MTB ride'], ['⚡', 'E-MTB ride'], ['🚴', 'Bike ride'], ['🥾', 'Hike']];
-  T.act = 0; T.follow = true; T.use3d = true;
-  try { T.act = Math.min(3, +localStorage.getItem('mtb-act') || 0); T.use3d = localStorage.getItem('mtb-trk3d') !== '0'; } catch (e) {}
+  T.act = 0; T.follow = true; T.use3d = false; // 2D by default; 3D requires an explicit user action
+  try { T.act = Math.min(3, +localStorage.getItem('mtb-act') || 0); /* 3D is opt-in for each visit, not automatically restored */ } catch (e) {}
   const trk = document.createElement('div'); trk.className = 'trk'; trk.hidden = true;
   trk.innerHTML = `<div class="trk-stats" hidden><div><b data-k="time">0:00:00</b><span>Time</span></div><div><b data-k="km">0.00</b><span>km</span></div>`
     + `<div><b data-k="spd">0.0</b><span>km/h</span></div><div><b data-k="up">0</b><span>m climb</span></div></div>`
@@ -3235,7 +3235,8 @@ function downloadGpx(name, pts) {
     if (b.classList.contains('trk-more')) { trkMenu($('.trk-menu').hidden); return; }
     const t = b.dataset.t, m = b.dataset.m;
     if (t === 'start') { recStart(); if (window.myLocation) map.setView(window.myLocation, Math.max(map.getZoom(), 15)); trkMsg('Recording started');
-      if (T.use3d && window._open3d) { window._open3d(); if (window._live3d) window._live3d(window.myLocation ? [[window.myLocation[0], window.myLocation[1]]] : [], true); } }
+      // Do not switch to 3D automatically; users can choose 3D from the map button or tracking menu.
+    }
     if (t === 'pause') { T.paused = true; T.pauseAt = Date.now(); }
     if (t === 'resume') { T.pausedMs += Date.now() - T.pauseAt; T.paused = false; }
     if (t === 'stop') { const ok = T.pts.length > 1; recStop(); trkMsg(ok ? 'Saved – see My MTB' : 'Too short to save'); }
