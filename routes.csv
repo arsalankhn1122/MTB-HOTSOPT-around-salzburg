@@ -1,11 +1,11 @@
 ﻿name,file,source,type,distance_km,climb_m,max_ele,duration_h,speed_kmh,start_km,in_study_area_50km,date,season,start_hour,start_lat,start_lon,photos
-Own ride · 9 Dec 2025,own_20251209_1358.gpx,own ride,recorded,5.2,259,1009,0.6,8.8,55.1,no,2025-12-09,winter,13,47.34187,12.80519,0
-Own ride · 5 Apr 2026,own_20260405_1420.gpx,own ride,recorded,9.5,25,767,0.4,24.0,59.9,no,2026-04-05,spring,14,47.28378,12.8719,0
-Own ride · 5 Apr 2026,own_20260405_1444.gpx,own ride,recorded,8.5,365,1109,1.2,6.9,63.6,no,2026-04-05,spring,14,47.27214,12.75811,0
+Zell am See – Thumersbach (own ride),own_20251209_1358.gpx,own ride,recorded,5.2,259,1009,0.6,8.8,55.1,no,2025-12-09,winter,13,47.34187,12.80519,0
+"Bruck – Kaprun, Tauern cycle path (own ride)",own_20260405_1420.gpx,own ride,recorded,9.5,25,767,0.4,24.0,59.9,no,2026-04-05,spring,14,47.28378,12.8719,0
+Kaprun (own ride),own_20260405_1444.gpx,own ride,recorded,8.5,365,1109,1.2,6.9,63.6,no,2026-04-05,spring,14,47.27214,12.75811,0
 Golling – Oberjochalm (own ride),own_20260704_golling.gpx,own ride,recorded,13.7,942,1407,1.3,11.0,25.3,yes,2026-07-04,summer,14,47.5923,13.15825,6
-Own ride · 22 Aug 2026,own_20260822_1120.gpx,own ride,recorded,1.6,418,1297,1.0,1.5,25.1,yes,2026-08-22,summer,11,47.5914,12.96775,0
-Own ride · 23 Sep 2026,own_20260923_1451.gpx,own ride,recorded,16.7,740,1506,1.6,10.6,81.0,no,2026-09-23,autumn,14,47.26587,12.33546,0
-Own ride · 29 Sep 2026,own_20260929_1729.gpx,own ride,recorded,8.6,399,1282,0.7,11.5,22.9,yes,2026-09-29,autumn,17,47.6034,13.03199,0
+Schönau am Königssee (own ride),own_20260822_1120.gpx,own ride,recorded,1.6,418,1297,1.0,1.5,25.1,yes,2026-08-22,summer,11,47.5914,12.96775,0
+Bramberg am Wildkogel (own ride),own_20260923_1451.gpx,own ride,recorded,16.7,740,1506,1.6,10.6,81.0,no,2026-09-23,autumn,14,47.26587,12.33546,0
+Berchtesgaden (own ride),own_20260929_1729.gpx,own ride,recorded,8.6,399,1282,0.7,11.5,22.9,yes,2026-09-29,autumn,17,47.6034,13.03199,0
 Salzburger Stadtberge,pub_bergfex_1056636_stadtberge.gpx,bergfex,planned,46.4,1349,1266,4.0,11.6,4.2,yes,,,,47.83977,13.02101,0
 Gotzenalm,pub_bergfex_1102_gotzenalm.gpx,bergfex,planned,36.7,2306,1692,4.0,9.2,20.6,yes,,,,47.62844,12.99804,0
 Eugendorfer Berg,pub_bergfex_1105242_eugendorfer_berg.gpx,bergfex,planned,37.9,608,795,2.7,14.2,2.0,yes,,,,47.82144,13.03464,0
@@ -26,3 +26,62 @@ Lamprechtshausen_Gundertshausen,pub_bergfex_4617164_lamprechtshausen.gpx,bergfex
 S528 Fuschlsee Regionsrunde,pub_bergfex_579089_fuschlsee_regionsrunde.gpx,bergfex,planned,56.4,1454,1050,3.8,15.0,18.4,yes,,,,47.79465,13.29973,0
 Stadt Salzburg: über Festungsberg und Mönchsberg ( Panorama ),pub_bergfex_63793_festungsberg_moenchsberg.gpx,bergfex,planned,7.4,241,516,1.5,4.9,1.9,yes,,,,47.79272,13.04893,0
 Attersee-Lichtenberg,pub_bergfex_88606_attersee_lichtenberg.gpx,bergfex,planned,28.9,659,838,3.0,9.6,35.8,yes,,,,47.90902,13.51146,0
+Mondsee – Attersee view loop,pub_komoot_842721693_mondsee_loop.gpx,komoot,planned,50.1,1201,1025,4.4,11.3,23.1,yes,,,,47.86784,13.35211,0
+Schlößl – Mondsee – Schwarzensee loop,pub_komoot_842721808_schloessl_loop.gpx,komoot,planned,55.6,934,1024,4.5,12.3,21.6,yes,,,,47.84458,13.33901,0
+Kreuzstein – Schwarzensee – Attersee loop,pub_komoot_842721849_kreuzstein_loop.gpx,komoot,planned,36.5,875,1026,3.5,10.4,25.4,yes,,,,47.79871,13.39531,0
+Mondsee – Bucht am Wolfgangsee – Wolfgangsee loop,pub_komoot_842721900_mondsee.gpx,komoot,planned,42.6,652,787,3.0,14.1,22.8,yes,,,,47.85605,13.35207,0
+Pöllach – Blick auf Wolfgangsee – Wolfgangsee Blick loop,pub_komoot_842721943_pollach.gpx,komoot,planned,36.2,1140,1438,3.5,10.4,23.2,yes,,,,47.76964,13.35975,0
+Sankt Gilgen – Blick zum Schafberg – Bucht am Wolfgangsee loop,pub_komoot_842722013_sankt_gilgen.gpx,komoot,planned,34.1,563,795,2.6,13.2,23.7,yes,,,,47.76459,13.36464,0
+Fuschl am See – Hatznalm – Wolfgangsee Blick loop,pub_komoot_842722068_fuschl_am_see.gpx,komoot,planned,47.4,1530,1438,5.2,9.2,18.6,yes,,,,47.79491,13.3029,0
+Sankt Gilgen – Wolfgangsee Blick – Wolfgangsee loop,pub_komoot_842722128_sankt_gilgen.gpx,komoot,planned,31.3,1111,1438,3.3,9.6,23.7,yes,,,,47.76459,13.36464,0
+Sankt Koloman – Bergalm (View point) – Wasserfall loop,pub_komoot_842722175_sankt_koloman.gpx,komoot,planned,55.4,1839,1293,5.8,9.6,18.9,yes,,,,47.65991,13.17474,0
+Salzburg Taxham Europark – Gaisbergspitze – Salzburger Dom loop,pub_komoot_842722212_salzburg_taxham_europark.gpx,komoot,planned,41.1,914,1266,3.2,13.0,3.4,yes,,,,47.81605,13.01062,0
+Leithen – Traumhafter Mondsee – Promenade am Mondsee loop,pub_komoot_842722251_leithen.gpx,komoot,planned,39.3,217,539,2.3,16.9,15.6,yes,,,,47.8405,13.25827,0
+Altstadt – Roßfeld Panoramastrasse – Oben auf der Panoramastraße loop,pub_komoot_842722293_altstadt.gpx,komoot,planned,30.8,968,1540,2.7,11.5,14.9,yes,,,,47.67641,13.08284,0
+Fuschl am See – Hatznalm – Hintersee loop,pub_komoot_842722334_fuschl_am_see.gpx,komoot,planned,40.3,1046,1068,3.9,10.4,18.6,yes,,,,47.79491,13.3029,0
+Leopoldskron-Moos – Zistelalm – Gaisbergspitze loop,pub_komoot_842727864_leopoldskron_moos.gpx,komoot,planned,34.2,877,1267,2.8,12.1,5.4,yes,,,,47.76741,13.01923,0
+Torren – Oberer Bluntausee – Richtung Unterjochalm loop,pub_komoot_842727920_torren.gpx,komoot,planned,25.0,916,1393,2.6,9.7,25.7,yes,,,,47.58834,13.15279,0
+Scheffau am Tennengebirge – Richtung Unterjochalm – Obere Jochalm loop,pub_komoot_842727972_scheffau_am_tennengebirge.gpx,komoot,planned,38.6,980,1394,3.3,11.8,27.8,yes,,,,47.58671,13.2241,0
+Bergheim – Bäckeralm – Saalachufer loop,pub_komoot_842728046_bergheim.gpx,komoot,planned,68.6,1318,1263,6.2,11.1,4.2,yes,,,,47.83916,13.02111,0
+Elsbethen – Gaisbergspitze – Zistelalm loop,pub_komoot_842728080_elsbethen.gpx,komoot,planned,36.4,1312,1271,3.8,9.7,5.7,yes,,,,47.76086,13.08041,0
+Grashof – Lohn nach harter Arbeit – Tolle Bergsicht loop,pub_komoot_842728124_grashof.gpx,komoot,planned,17.1,698,1334,2.1,8.0,30.5,yes,,,,47.7315,12.66317,0
+Ainring – Königssee – Am Königssee loop,pub_komoot_842728166_ainring.gpx,komoot,planned,73.3,725,697,4.8,15.1,6.8,yes,,,,47.81494,12.96438,0
+Unken – Lofer Zentrum – Lofer loop,pub_komoot_842728206_unken.gpx,komoot,planned,26.7,136,652,1.7,15.3,29.6,yes,,,,47.65405,12.73355,0
+Mattsee – Schloss Mattsee – Grabensee-Blick loop,pub_komoot_842728242_mattsee.gpx,komoot,planned,26.1,215,600,1.7,15.8,18.3,yes,,,,47.97028,13.10481,0
+Puch Urstein – 22% steile Rampe – Trail loop,pub_komoot_842728281_puch_urstein.gpx,komoot,planned,48.3,1358,1275,4.8,10.1,9.8,yes,,,,47.72412,13.08812,0
+Bayerisch Gmain – Schönes Panorama – Salzburger Dom loop,pub_komoot_842728318_bayerisch_gmain.gpx,komoot,planned,46.6,293,560,2.8,16.5,15.6,yes,,,,47.72028,12.8944,0
+Schlößl – Aussichtsturm Kulmspitz – Promenade am Mondsee loop,pub_komoot_842728348_schlossl.gpx,komoot,planned,28.1,686,1065,2.7,10.5,21.6,yes,,,,47.84458,13.33901,0
+Seekirchen am Wallersee – Wallersee – Aussicht auf Salzburg loop,pub_komoot_842728407_seekirchen_am_wallersee.gpx,komoot,planned,20.4,159,576,1.4,15.0,11.5,yes,,,,47.89932,13.13007,0
+Mondsee – Promenade am Mondsee – Blick auf den See loop,pub_komoot_842728451_mondsee.gpx,komoot,planned,58.5,460,623,3.9,15.0,22.0,yes,,,,47.83893,13.34687,0
+Salzburg Itzling – Aussicht auf Salzburg – Wallersee loop,pub_komoot_842728499_salzburg_itzling.gpx,komoot,planned,46.8,378,579,2.8,16.7,1.5,yes,,,,47.81921,13.04085,0
+Ludwig – Höflmayr Siedlung – Berggipfel Buchberg – Grabensee-Blick loop,pub_komoot_842728535_ludwig_hoflmayr_siedlung.gpx,komoot,planned,36.6,483,774,2.5,14.6,25.5,yes,,,,48.0366,13.10481,0
+Fuschl am See – Zwölferhorn – Arnika Hütte loop,pub_komoot_842728584_fuschl_am_see.gpx,komoot,planned,26.0,920,1493,2.5,10.3,18.6,yes,,,,47.79491,13.3029,0
+Salzburg Parsch – Hintersee – Faistenau loop,pub_komoot_842728634_salzburg_parsch.gpx,komoot,planned,73.3,1608,1068,6.4,11.5,1.8,yes,,,,47.79922,13.07317,0
+Mondsee – Schöne schnelle Irsee Runde – Promenade am Mondsee loop,pub_komoot_842728715_mondsee.gpx,komoot,planned,26.8,266,675,1.7,15.9,22.8,yes,,,,47.85605,13.35207,0
+Ramsau – Alte Postalmstraße – Wolfgangsee loop,pub_komoot_842728771_ramsau.gpx,komoot,planned,76.2,1767,1314,7.0,10.9,16.4,yes,,,,47.74768,13.25501,0
+Pöllach – Wolfgangsee Blick – Wolfgangsee loop,pub_komoot_842728822_pollach.gpx,komoot,planned,25.9,679,1050,2.3,11.4,23.0,yes,,,,47.77336,13.35753,0
+Schlößl – Blick auf den Attersee – Tolle Aussicht auf den Mondsee loop,pub_komoot_842731894_schlossl.gpx,komoot,planned,68.2,1631,1024,6.5,10.5,20.3,yes,,,,47.84501,13.322,0
+Neumarkt am Wallersee – Festung Hohensalzburg – Salzburger Dom loop,pub_komoot_842731945_neumarkt_am_wallersee.gpx,komoot,planned,66.4,479,597,4.0,16.7,20.7,yes,,,,47.95595,13.22571,0
+Mondsee – Aussichtsturm Kulmspitz – Promenade am Mondsee loop,pub_komoot_842731999_mondsee.gpx,komoot,planned,25.6,630,1063,2.3,11.3,22.0,yes,,,,47.83921,13.34653,0
+Wengl – Wolfgangsee Blick – Wolfgangsee loop,pub_komoot_842732051_wengl.gpx,komoot,planned,31.9,871,1059,3.0,10.6,23.8,yes,,,,47.77306,13.36951,0
+Bayerisch Gmain – Salzburger Dom – Saalachufer loop,pub_komoot_842732090_bayerisch_gmain.gpx,komoot,planned,62.9,378,561,3.7,16.8,15.6,yes,,,,47.72028,12.8944,0
+Fuschl am See – Strubklamm – Wiestalstausee loop,pub_komoot_842732137_fuschl_am_see.gpx,komoot,planned,42.2,674,825,3.1,13.7,18.6,yes,,,,47.79491,13.3029,0
+Salzburg Hauptbahnhof – Salzburger Altstadt – Erentrudisalm loop,pub_komoot_842732181_salzburg_hauptbahnhof.gpx,komoot,planned,35.5,668,946,2.6,13.5,0.8,yes,,,,47.81306,13.04585,0
+Eugendorf – Aussicht auf Salzburg – Wallersee loop,pub_komoot_842732215_eugendorf.gpx,komoot,planned,39.5,465,582,2.9,13.7,8.5,yes,,,,47.87324,13.11674,0
+Kuchl Garnei – Seewaldsee – Seewaldsee mit Auerhütte loop,pub_komoot_842732245_kuchl_garnei.gpx,komoot,planned,49.5,839,1109,3.7,13.4,18.4,yes,,,,47.65153,13.12815,0
+Ramsau – Zwölferhorn – Sausteig-Alm loop,pub_komoot_842732306_ramsau.gpx,komoot,planned,33.5,1007,1497,3.0,11.1,15.0,yes,,,,47.75979,13.24101,0
+Himmelreich – Traumhafte Straße – 22 % steile Rampe loop,pub_komoot_842732350_himmelreich.gpx,komoot,planned,35.9,504,676,2.6,13.7,5.8,yes,,,,47.78625,12.98522,0
+Straßwalchen – Promenade am Mondsee – schöne schnelle Irsee Runde loop,pub_komoot_842732382_strasswalchen.gpx,komoot,planned,42.9,343,623,2.7,16.0,23.9,yes,,,,47.97198,13.26471,0
+Salzburg Sam – Saalachufer – Salzburg Radweg loop,pub_komoot_842732428_salzburg_sam.gpx,komoot,planned,50.0,170,454,2.9,17.3,1.3,yes,,,,47.81963,13.06325,0
+Schlößl – Promenade am Mondsee – Aussichtspunkt Mondsee loop,pub_komoot_842732458_schlossl.gpx,komoot,planned,53.3,1055,954,4.4,12.1,20.3,yes,,,,47.84501,13.322,0
+Salzburg Itzling – Salzburger Altstadt – Gaisbergspitze loop,pub_komoot_842732499_salzburg_itzling.gpx,komoot,planned,29.9,880,1272,2.6,11.5,1.5,yes,,,,47.81921,13.04085,0
+Gschwand – Blick auf den Wolfgangsee – Schwarzeneggalm loop,pub_komoot_842736838_gschwand.gpx,komoot,planned,21.6,718,1239,2.1,10.5,27.5,yes,,,,47.73545,13.4066,0
+Niedersee – Aussichtsturm Kulmspitz – Promenade am Mondsee loop,pub_komoot_842736886_niedersee.gpx,komoot,planned,38.0,819,1063,3.5,10.9,26.0,yes,,,,47.81538,13.40306,0
+Hammerau – Blick auf den Hochstaufen – Schlafende Hexe loop,pub_komoot_842736924_hammerau.gpx,komoot,planned,60.1,802,854,4.0,15.1,8.3,yes,,,,47.79582,12.94622,0
+Hallein – Traumhafter Ausblick – Steiniglu loop,pub_komoot_842736976_hallein.gpx,komoot,planned,38.7,716,1024,3.0,12.9,14.2,yes,,,,47.68505,13.09966,0
+Eugendorf – Hintersee – Hintersee loop,pub_komoot_842737012_eugendorf.gpx,komoot,planned,63.6,1003,818,4.8,13.2,8.5,yes,,,,47.87324,13.11674,0
+Hinterwinkl – Strubklamm – Hintersee loop,pub_komoot_842737060_hinterwinkl.gpx,komoot,planned,73.1,1706,1314,6.7,10.9,9.9,yes,,,,47.78083,13.18099,0
+Zell am Moos – Traumhafter Mondsee – Promenade am Mondsee loop,pub_komoot_842737124_zell_am_moos.gpx,komoot,planned,47.7,502,723,3.0,15.8,22.8,yes,,,,47.90731,13.32364,0
+Salzburg Taxham Europark – Tour um den Wallersee – Waldtrail inmitten Salzburg loop,pub_komoot_842737159_salzburg_taxham_europark.gpx,komoot,planned,39.0,231,557,2.1,18.2,3.4,yes,,,,47.81605,13.01062,0
+Oberndorf-Laufen – Länderbrücke Laufen-Oberndorf – Salzburger Dom loop,pub_komoot_842737205_oberndorf_laufen.gpx,komoot,planned,40.7,101,463,2.2,18.7,16.6,yes,,,,47.93794,12.94222,0
+Bergheim – Salzburger Dom – Salzburg Radweg loop,pub_komoot_842737251_bergheim.gpx,komoot,planned,41.5,116,449,2.3,17.9,4.2,yes,,,,47.83916,13.02111,0
